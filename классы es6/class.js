@@ -33,3 +33,5 @@ console.log(div.calcArear());
 
 // console.log(square.calcArear());
 // console.log(long.calcArear());
+
+
